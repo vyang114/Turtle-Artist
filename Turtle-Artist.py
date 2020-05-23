@@ -1,5 +1,3 @@
-## Assignment 3
-## Vera Yang 301272027
 ## This program is a Turtle Artist that draws the following code
 
 
